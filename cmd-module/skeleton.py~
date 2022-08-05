@@ -1,0 +1,6 @@
+import cmd
+
+class MyPrompt(cmd.Cmd):
+    pass
+
+MyPrompt().cmdloop()
