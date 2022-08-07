@@ -1,0 +1,3 @@
+def green (name , *args):
+    print("hi", *args)
+green ("foo", "lii", "mitv")
